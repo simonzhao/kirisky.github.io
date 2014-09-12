@@ -298,3 +298,16 @@ footer .wrapper{
 #ds-reset li:before {
   content: none;
 }
+
+/*
+  meta
+ */
+
+.meta{
+  margin: 0px;
+  float: right;
+}
+
+.pageNavInvalid{
+  color: #666;
+}
