@@ -9,7 +9,6 @@ author: kirisky
 twitter_username: jekyllrb
 github_username:  kirisky
 githuburl:	https://github.com/kirisky
-footer: this is my personal blog
 
 # Build settings
 markdown: kramdown
