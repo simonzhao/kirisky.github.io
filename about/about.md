@@ -4,8 +4,20 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+一只喜欢游戏的程序猿。
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+----
+
+###联系方式：        
+
+个人邮箱: [youandox@gmail.com](mailto:youandox@gmail.com)     
+新浪微博: [kirisky](http://weibo.com/kirisky)   
+豆瓣：[kirisky](http://www.douban.com/people/58884727/)    
+github : [kirisky](https://github.com/kirisky)        
+twitter: [kirisky](https://twitter.com/kirisky1)
+
+----
+
+
+[![新浪微博](http://service.t.sina.com.cn/widget/qmd/1305859081/ea7842ed/1.png)](http://weibo.com/kirisky)
