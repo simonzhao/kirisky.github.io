@@ -2,8 +2,8 @@
 layout: post
 title:  "pages与jekyll的搭建"
 date:   2014-09-11 15:49:04
-categories: jekyll
-tags: [first]
+categories: Pages
+tags: [Jekyll]
 ---
 
 将github.io的blog搭好了。记录一下整个搭建的过程。
