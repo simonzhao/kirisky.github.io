@@ -2,7 +2,7 @@
 title: Kirisky
 email: youandox@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Record my interest and experience. Code for fun!
+  Record my interest and experience. Coding for fun! Coding for games!
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://kirisky.github.com" # the base hostname & protocol for your site
 author: kirisky
