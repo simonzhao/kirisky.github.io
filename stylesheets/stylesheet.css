@@ -311,3 +311,12 @@ footer .wrapper{
 .pageNavInvalid{
   color: #666;
 }
+
+/*
+  baidu share
+  with default li before style conflict
+ */
+
+.bdshare-slide-button-box ul li:before, .bdshare_dialog_box ul li:before{
+  content: none;
+}
