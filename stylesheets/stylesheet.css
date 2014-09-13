@@ -293,13 +293,6 @@ footer .wrapper{
 }
 
 /*
-  Duoshuo comments 
- */
-#ds-reset li:before {
-  content: none;
-}
-
-/*
   meta
  */
 
@@ -313,10 +306,13 @@ footer .wrapper{
 }
 
 /*
-  baidu share
-  with default li before style conflict
+   ul li before element conflict 
+   ds-reset from duoshuo comments
+   bdshare from baidu share
  */
 
-.bdshare-slide-button-box ul li:before, .bdshare_dialog_box ul li:before{
+#ds-reset li:before, 
+.bdshare-slide-button-box ul li:before, 
+.bdshare_dialog_box ul li:before{
   content: none;
 }
