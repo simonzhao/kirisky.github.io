@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "pages与jekyll的搭建"
+title:  "通过pages与jekyll搭建Blog"
 date:   2014-09-11 15:49:04
 categories: Pages
 tags: [Jekyll]
