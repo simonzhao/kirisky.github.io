@@ -86,6 +86,10 @@ tags: 开发
 ###Mount#####       
 
 >一般使用Linux来进行开发，很多时候出于个方面的原因(如安全问题、配置环境的复杂度等等)不能直接配置出与服务器相同的本地环境，那么直接使用mount来挂在测试机，直接使用本地的开发配置对测试机中的代码进行编写。
+>
+{% highlight shell lineno %}
+mount src_dir dest_dir -t cifs -o rw,username=xxxx,passwd=xxxx
+{% endhighlight %}  
         
 ###GIT#####     
      
