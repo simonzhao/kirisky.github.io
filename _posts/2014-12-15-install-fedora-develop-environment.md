@@ -88,7 +88,7 @@ tags: 开发
 >一般使用Linux来进行开发，很多时候出于个方面的原因(如安全问题、配置环境的复杂度等等)不能直接配置出与服务器相同的本地环境，那么直接使用mount来挂在测试机，直接使用本地的开发配置对测试机中的代码进行编写。
 >
 {% highlight shell lineno %}
-mount src_dir dest_dir -t cifs -o uid=username,gid=groupname,username=xxxx,passwd=xxxx
+mount src_dir dest_dir -t cifs -o uid=user,gid=group,username=xx,passwd=xx
 {% endhighlight %}  
 >以上命令中，cifs是通用网络文件系统，-o后面的选项，uid与gid是以哪种权限使用挂在的目录，如果不制定会变为数字。一般情况下会制定自己当前linux的用户名与用户组，这样就可以想操作本地目录一样操作挂在的目录。username是挂载服务器的登陆用户，该选项可以使用user来替代。passwd是挂载服务器的登陆密码，在fedora中与password通用，在ubuntu中，只能使用password。
         
