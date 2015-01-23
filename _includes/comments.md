@@ -1,5 +1,5 @@
 <!-- Duoshuo Comment BEGIN -->
-	<div class="ds-thread" data-thread-key="请将此处替换成文章在你的站点中的ID" data-title="{{ post.title }}" data-url="{{ post.url }}"></div>
+	<div class="ds-thread" data-thread-key="{{page.id}}" data-title="{{ post.title }}" data-url="{{ post.url }}"></div>
 <!-- Duoshuo Comment frame end -->
 <!-- Duoshuo Common JS code start (one page one page ) -->
 <script type="text/javascript">
