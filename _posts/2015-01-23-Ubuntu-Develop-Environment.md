@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Ubuntu的开发环境安装"
-date:   2015-01-21 01:24:00
+date:   2015-01-23 01:24:00
 categories: Pages
-tags: 重构
+tags: Ubuntu
 ---
 
 Ubuntu以精美的桌面著称，也有debian系列丰富的资源库，所以作为开发环境是非常合适的。  
