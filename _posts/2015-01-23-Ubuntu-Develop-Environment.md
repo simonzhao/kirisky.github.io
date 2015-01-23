@@ -28,7 +28,7 @@ Ubuntu以精美的桌面著称，也有debian系列丰富的资源库，所以�
     sudo apt-get dist-upgrade
 {% endhighlight %}
 
-###配置免密码登录SSH和GIT######
+###配置免密码登录SSH与Push GIT######
 
 > 下面只说最基本的方法  
 > SSH与GIt面密码登录与PUSH，先用ssh-keygen生成公钥和私钥，然后将公钥添加到目标服务器中~/.ssh/authorized_keys中。    
@@ -40,6 +40,11 @@ Ubuntu以精美的桌面著称，也有debian系列丰富的资源库，所以�
     PubkeyAuthentication yes
 {% endhighlight %}
 > 不论Ubuntu还是fedora，ssh配置文件一般都在/etc/ssh/目录下。并且一般linux都是开启以上选项的。
+
+###配置免密码对Github进行PUSH
+
+> 首先是将本地机器的公钥添加进Github    
+> 然后以ssh方式将项目clone下来。如果使用https进行clone，就无法使用免密码push的方式了。
 
 ###安装PHP CodeSniffer######
 
