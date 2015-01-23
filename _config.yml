@@ -19,3 +19,4 @@ paginate: 20
 # Markdown
 highlighter: true
 safe: true
+
