@@ -18,7 +18,7 @@ tags: 重构
 
 ###网络######
 
-> Tcp/Ip详解（三卷）        
+> Tcp/Ip详解（卷一、三）        
 > Unix网络编程（两卷）      
 > Http权威指南  
 
@@ -35,7 +35,6 @@ tags: 重构
 
 ###Java######
 
-> Java核心编程      
 > Java编程思想      
 > Java并发编程实战      
 
@@ -48,6 +47,7 @@ tags: 重构
 ###开源程序源码######
 
 > Yaf源码       
+> LinuxKernel源码
 > Nginx源码     
 > Lua源码   
 
