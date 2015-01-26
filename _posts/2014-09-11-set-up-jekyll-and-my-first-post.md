@@ -17,9 +17,18 @@ tags: [Jekyll]
 {% highlight ruby linenos %}
 #以淘宝镜像为例
 gem source -a http://ruby.taobao.org 
-{% endhighlight %}
+{% endhighlight %}      
     
+    
+---
 
+相关资料:       
+
+> [搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门]
+    
+---
+
+[搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门]: http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html
 [automatic generator]: https://help.github.com/articles/creating-pages-with-the-automatic-generator
 [using jekyll]: https://help.github.com/articles/using-jekyll-with-pages
 [jekyll]: http://jekyllrb.com/
