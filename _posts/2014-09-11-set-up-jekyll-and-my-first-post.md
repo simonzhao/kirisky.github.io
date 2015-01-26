@@ -12,7 +12,7 @@ tags: [Jekyll]
 
 觉得在github.io中搭建blog，是一个很有趣的体验。以后将使用[markdown]\([中文版][markdown中文版]\)来写博客，想想还有些小激动呢！	
 
-注: 因为Gem可能被墙了，推荐大家使用[AliyunRubyGems镜像]和[TaobaoRubyGems镜像](不知道是否是一个)。	
+注: 因为Gem可能被墙了，推荐大家使用[AliyunRubyGems镜像]和[TaobaoRubyGems镜像]。	
 
 {% highlight ruby linenos %}
 #以淘宝镜像为例
